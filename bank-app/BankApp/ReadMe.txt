@@ -26,7 +26,7 @@ This is a simple bank application implemented in Java, which uses Maven 396 The 
 
 1 **Clone the repository:**
    ```sh
-   git clone https://githubcom/yourusername/bankappgit
+   git clone https://github.com/PoemaBesimi/Java-Project.git
   cd bank-app 
   cd BankApp
 
