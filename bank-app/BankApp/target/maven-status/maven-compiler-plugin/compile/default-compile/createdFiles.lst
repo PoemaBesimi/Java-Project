@@ -1,0 +1,5 @@
+com\bankapp\Bank.class
+com\bankapp\Main.class
+com\bankapp\Transaction.class
+com\bankapp\Account.class
+com\bankapp\DatabaseManager.class

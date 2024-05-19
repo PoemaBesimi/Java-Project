@@ -1,0 +1,4 @@
+com\bankapp\BankTest.class
+com\bankapp\BankIntegrationTest.class
+com\bankapp\TransactionTest.class
+com\bankapp\AccountTest.class
